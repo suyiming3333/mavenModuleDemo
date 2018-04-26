@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mavenmodule.iml" filepath="$PROJECT_DIR$/mavenmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulebase/modulebase.iml" filepath="$PROJECT_DIR$/modulebase/modulebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulemain/modulemain.iml" filepath="$PROJECT_DIR$/modulemain/modulemain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleweb/moduleweb.iml" filepath="$PROJECT_DIR$/moduleweb/moduleweb.iml" />
+    </modules>
+  </component>
+</project>
